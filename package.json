@@ -73,6 +73,6 @@
   ],
   "dependencies": {
     "styled-components": "^5.1.1",
-    "react-swipeable-views": "^0.13.9"
+    "react-swipeable-views": "^0.14.0"
   }
 }
